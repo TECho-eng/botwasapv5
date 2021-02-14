@@ -19,7 +19,7 @@ exports.lvlnul = () => {
 }
 
 exports.lvlnoon = () => {
-	return`*LEVEL DI GRUB BELUM DI AKTIFKAN*`
+	return `* GRUB LEVEL IS NOT ACTIVATED *`
 }
 
 exports.noregis = () => {
